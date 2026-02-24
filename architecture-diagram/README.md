@@ -1,4 +1,7 @@
 # Architecture – Zero Trust Conditional Access (Privileged Admin Protection)
+## Diagram
+
+![Zero Trust Conditional Access Architecture](01-privileged-admin-ca-architecture.png)
 
 This section explains the architecture behind the Zero Trust Conditional Access lab implemented in Microsoft Entra ID.
 
